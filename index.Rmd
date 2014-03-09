@@ -32,7 +32,7 @@ knit_hooks$set(plot = knitr:::hook_plot_html)
 
 ## Links To Slides
 ### Link to all slides
-http://JohnsonHsieh.github.com/dsp-statR
+http://johnsonhsieh.github.io/dsp-statR/
 
 ### Source code on github
 http://github.com/JohnsonHsieh/dsp-statR/
